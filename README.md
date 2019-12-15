@@ -1,0 +1,1 @@
+# frugal-script
