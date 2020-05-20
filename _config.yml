@@ -1,0 +1,31 @@
+title: Frugal Script
+description: > # ignore newlines until next field
+  Automatize as tarefas chatas, liberando tempo para o que realmente importa.
+
+show_excerpts: true
+permalink: pretty
+lang: pt-br
+
+minima:
+  # Minima date format
+  # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github: lizardo
+    rss: rss
+
+disqus:
+  shortname: frugal-script
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
