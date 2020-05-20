@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre
+comments: true
 permalink: /sobre/
 ---
 
@@ -12,37 +13,32 @@ mecânicas, ex. coleta e organização de dados.
 O intuito principal deste _site_ é mostrar formas de executar tarefas mecânicas
 que:
 
-- minimizam o esforço repetitivo;
-- reduzem a possibilidade de erros; e
-- economizam tempo.
+- Minimizam o esforço repetitivo;
+- Reduzem a possibilidade de erros; e
+- Economizam tempo.
 
-E como vamos fazer isso?
+E como vamos fazer isso? Acompanhe os posts para descobrir. Segue uma
+explicação sobre a razão do nome "Frugal Script".
 
 ## Script
 
 _Script_ é o termo técnico para uma sequência de instruções, interpretadas por
 um software, a fim de executar determinada tarefa. Temos, então, o primeiro
-ingrediente: ao invés de você executar as tarefas manualmente, vai "instruir" o
-computador a fazer isso por você, com maior eficiência, precisão e (talvez o
-mais importante) em menos tempo!
+ingrediente: ao invés de executar as tarefas manualmente, vai "instruir" o
+computador a fazer isso por você, com maior eficiência, precisão e em menos
+tempo.
 
-Nesse ponto, alguém pode pensar: "Ah, mas eu posso comprar um software pronto
-ou contratar um desenvolvedor que faça isso pra mim!". De fato, não faltam
-soluções (prontas ou "sob encomenda") para as mais diversas tarefas. Mas será
-que é sempre a melhor abordagem?
+Em outras palavras, o _script_ é um "roteiro" a ser seguido pelo computador,
+descrevendo subtarefas que, combinadas, resolvem determinado problema.
 
 ## Frugal
 
-Imagine seu computador (ou para simplificar, pense apenas no seu navegador, ex.
-Chrome/Firefox) como uma casa. Como nos sentimos quando conseguimos fazer
-pequenos reparos e melhorias, sem necessitar de assistência profissional?
+Acredito ser possível executar muitas tarefas começando com o que se tem em
+mãos, de modo que a complexidade da solução evolui conforme o entendimento do
+problema também se expande.
 
-Claro, podemos chamar alguém para trocar uma lâmpada, mudar o arranjo dos
-móveis ou mesmo pendurar quadros, mas **poder** fazer tarefas simples por conta
-própria nos dá **autonomia** para fazermos exatamente como queremos, evitando
-desperdícios, tais como: tempo interagindo com o prestador de serviço,
-funcionalidades supérfluas que nunca usaríamos etc.
-
-Esse argumento se aplica perfeitamente às soluções de software: podemos usar
-nosso tempo tentando explicar a outras pessoas exatamente o que queremos, ou
-podemos simplesmente fazer nós mesmos.
+Se, na "superfície", uma tarefa parece complexa, é bem provável que possa
+enxergá-la como uma composição de subtarefas, destrinchadas até um ponto em que
+se tornem simples (ou mesmo triviais). É como um quebra-cabeça de milhares de
+peças, em que resolvemos partes isoladas que podem eventualmente ser combinadas
+para formar a imagem completa.
