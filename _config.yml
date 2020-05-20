@@ -16,9 +16,6 @@ minima:
     github: lizardo
     rss: rss
 
-disqus:
-  shortname: frugal-script
-
 google_analytics: UA-167195126-1
 
 # If you want to link only specific pages in your header, uncomment
