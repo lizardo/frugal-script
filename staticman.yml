@@ -1,6 +1,19 @@
 comments:
+  allowedFields: ["email", "message", "name", "replying_to_uid"]
+  branch: master
+  commitMessage: "Comment from {fields.name} on {options.slug}"
+  filename: "entry{@timestamp}"
+  format: yaml
+  generatedFields:
+      date:
+        type: date
+        options:
+          format: "timestamp-seconds"
+  moderation: true
   name: Frugal Script
-  requiredFields: ["name", "email", "message"]
+  path: "_data/comments/{options.slug}"
+  requiredFields: ["name", "message"]
+
   reCaptcha:
     enabled: true
     siteKey: 6LeynPoUAAAAAGZbFw1LoE1YyVZxHzglXlHhrj1A
