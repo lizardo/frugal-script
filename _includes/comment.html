@@ -7,9 +7,10 @@
     <span class="comment__date">
       {% if include.date %}
         {% if include.index %}
-          <a href="#comment{{ include.index | prepend: '-' }}" title="Permalink to this comment">
+          <a href="#comment{{ include.index | prepend: '-' }}" title="Permalink para este comentário">
         {% endif %}
-        {{ include.date | date_to_long_string }}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ include.date | date: date_format }}
         {% comment %}
           {% include format-date.html date=include.date time=false weekDay=false %}
         {% endcomment %}
@@ -24,7 +25,7 @@
 
   {% unless include.replying_to != 0 %}
     <div class="comment__meta">
-      <a rel="nofollow" class="comment__reply-link" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}', '{{ include.uid }}')">↪&#xFE0E; Reply to {{ include.name }}</a>
+      <a rel="nofollow" class="comment__reply-link" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}', '{{ include.uid }}')">↪&#xFE0E; Responder para {{ include.name }}</a>
     </div>
   {% endunless %}
 </article>
