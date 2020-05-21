@@ -18,7 +18,7 @@
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        showModal('Comentário enviado', 'Obrigado! Seu comentário está <a href="https://github.com/lizardo/frugal-script/pulls">em análise</a> e vai aparecer aqui assim que for aprovado.');
+        showModal('Comentário enviado', 'Obrigado! Seu comentário está <a href="https://github.com/lizardo/frugal-script/pulls/lizardo-bot">em análise</a> e vai aparecer aqui assim que for aprovado.');
 
         $("#comment-form-submit")
           .html("Enviar");
