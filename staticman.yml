@@ -1,5 +1,5 @@
 comments:
-  allowedFields: ["email", "message", "name", "replying_to_uid"]
+  allowedFields: ["email", "message", "name", "replying_to", "replying_to_uid"]
   branch: master
   commitMessage: "Comment from {fields.name} on {options.slug}"
   filename: "entry{@timestamp}"
