@@ -8,7 +8,7 @@
 
 
     $("#comment-form-submit").html(
-      '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Sending...'
+      '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Enviando...'
     );
     $(form).addClass('disabled');
 
@@ -18,10 +18,10 @@
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        showModal('Comment submitted', 'Thanks! Your comment is <a href="https://github.com/travisdowns/travisdowns.github.io/pulls">pending</a>. It will appear when approved.');
+        showModal('Comentário enviado', 'Obrigado! Seu comentário está <a href="https://github.com/lizardo/frugal-script/pulls">em análise</a> e vai aparecer aqui assim que for aprovado.');
 
         $("#comment-form-submit")
-          .html("Submit");
+          .html("Enviar");
 
         $(form)[0].reset();
         $(form).removeClass('disabled');
@@ -29,9 +29,13 @@
       },
       error: function (err) {
         console.log(err);
-        var ecode = (err.responseJSON || {}).errorCode || "unknown";
-        showModal('Error', 'An error occured.<br>[' + ecode + ']');
-        $("#comment-form-submit").html("Submit")
+        var ecode = (err.responseJSON || {}).errorCode || "UNKNOWN";
+        if (ecode === 'RECAPTCHA_INVALID_INPUT_RESPONSE') {
+          showModal('Ocorreu um erro', 'Respondeu o captcha corretamente?');
+        } else {
+          showModal('Ocorreu um erro', '[' + ecode + ']');
+        }
+        $("#comment-form-submit").html("Enviar")
         $(form).removeClass('disabled');
         grecaptcha.reset();
       }
