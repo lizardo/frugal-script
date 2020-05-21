@@ -1,0 +1,7 @@
+comments:
+  name: Frugal Script
+  requiredFields: ["name", "email", "message"]
+  reCaptcha:
+    enabled: true
+    siteKey: 6LeynPoUAAAAAGZbFw1LoE1YyVZxHzglXlHhrj1A
+    secret: eMB8iZb/y0WidxqRDzeBo6FoBCAMQL7TdisYG1ug55SEFkDn0Yhg5C25oVAENQp+CFPOoyiVCgPH7z8BF4voLXCEesLtKguaXjDXK2OAoziL+/rICsBH2VhAqlIaJm3JUhbKH1g7jd6iqv5OU8WV/SWYbhnaQZ69TGolbyWJzJY/m36KfWCKq9+FmYYot8rQQ4MRBwamzrJh2PZBEzys9gOmFCSzZ0T9PpNYVLQUjpx0L4ca8TMFfkJx7BvJww2Zh7UXup/obZ7DM0kzIqa0oPspSnncdJM0XdepXN0Ud4JFqkP1rjqZzAZMyvS51880IPb72apcJtqut8oSOv3vOWWRjgcEpG+nB9fEqMxYVfR/fXYB+Yj8vA1CH1vBa+1jhZIRBl65iPzf0I55WWkt4oxuQIRWwif8M80WFb7r+X91cgLvXln18zlegAx7KBVk+5WuZ1KTnrqa21dBCk32Zi249vAt+ldVj75pa1DcdEsdHfaah2jwXwdR4sCX0KtWjkf4MQ7koDLezOGDPCNg/bcN01nchZkKustoFdgz32bnbBCtrsMFE4Ju+FJgz1Wy8ZeaqgtLrvOjCDkSAuQnnWyh4HqZ+IKZ/odxfirl4XnuHhPiNbI1Q9Hocnu8ftgZF76Aj+6j9K4scjyKKFDqwq84WrEybiJIPkT3Cdf+H/4=
