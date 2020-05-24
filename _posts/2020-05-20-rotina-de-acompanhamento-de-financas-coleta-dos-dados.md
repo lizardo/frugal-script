@@ -37,6 +37,10 @@ Mensalmente:
 - Baixar faturas de cartão (ainda não uso com frequência, usarei futuramente
   para acompanhamento mais detalhado de gastos)
 
+4. Ir no site da B3
+- Baixar [Taxas do Mercado de Renda Variável - BVBG.072.01 Equities Fee Public Information (ZIP)](http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/boletins-diarios/pesquisa-por-pregao/pesquisa-por-pregao/)
+  (colocar data do fechamento do arquivo do mês anterior)
+
 Semanalmente:
 
 1. Ir no [CEI - Canal Eletrônico do Investidor](https://cei.b3.com.br/)
