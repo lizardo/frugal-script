@@ -32,30 +32,36 @@ Mensalmente:
 - Baixar Carteira de Ativos (escolher a data "certa" casando saldos de Tesouro
   Direto com o "Extrato Consolidado" do Portal do Investidor)
 
-3. Ir no site do(s) banco(s)
-- Baixar extrato consolidado
-- Baixar faturas de cartão (ainda não uso com frequência, usarei futuramente
-  para acompanhamento mais detalhado de gastos)
-
-4. Ir no site da B3
+3. Ir no site da B3
 - Baixar [Taxas do Mercado de Renda Variável - BVBG.072.01 Equities Fee Public Information (ZIP)](http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/boletins-diarios/pesquisa-por-pregao/pesquisa-por-pregao/)
   (colocar data do fechamento do arquivo do mês anterior)
+
+4. Outros dados
+- Baixar extrato consolidado dos bancos
+- Baixar faturas de cartão
+- Baixar extrato de uso do vale-refeição
 
 Semanalmente:
 
 1. Ir no [CEI - Canal Eletrônico do Investidor](https://cei.b3.com.br/)
-- Baixar Carteira
-- Baixar Proventos (alguns eventos não aparecem nos extratos mensais)
+- Baixar Proventos (necessário pois alguns eventos não aparecem nos extratos
+  mensais; além disso, esse extrato fica disponível apenas para os últimos 7
+  dias)
+
+Ocasionalmente (quando necessário):
+
+1. Ir no Site da B3
+- Baixar [Série histórica das Taxas DI e SELIC (Excel)](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-segmentos-e-setoriais/serie-historica-do-di.htm)
+- Baixar [Série histórica de cotações (ZIP)](http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/)
 
 2. Ir no site da(s) corretora(s)
 - Baixar extrato
 - Baixar notas de corretagem
 
-3. Ir no Site da B3
-- Baixar [Série histórica das Taxas DI e SELIC (Excel)](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-segmentos-e-setoriais/serie-historica-do-di.htm)
-- Baixar [Série histórica de cotações (ZIP)](http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/)
+3. Ir no [CEI - Canal Eletrônico do Investidor](https://cei.b3.com.br/)
+- Baixar Carteira de Ativos
 
-# Conclusão
+## Conclusão
 
 A documentação é uma parte essencial das rotinas. Não podemos confiar apenas na
 memória; caso contrário, corremos o risco de gerar informações incompletas ou
