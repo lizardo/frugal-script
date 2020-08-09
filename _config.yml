@@ -2,7 +2,6 @@ title: Frugal Script
 description: > # ignore newlines until next field
   Libere tempo, automatize tarefas.
 
-show_excerpts: true
 permalink: /:title/
 lang: pt-br
 
