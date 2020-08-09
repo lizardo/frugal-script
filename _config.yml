@@ -13,6 +13,9 @@ minima:
 
   # generate social links in footer
   social_links:
+    youtube_channel: UC_jCixozZE-HgUhiqwdnY-w
+    instagram: frugal_script
+    twitter: frugal_script
     github: lizardo
     rss: rss
 
