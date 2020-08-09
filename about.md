@@ -5,20 +5,10 @@ comments: true
 permalink: /sobre/
 ---
 
-Ocupamos boa parte do nosso tempo em frente a um computador ou celular
-executando tarefas. Algumas são de natureza criativa, ex. comunicar-se,
-estudar, redigir um texto, fazer uma análise. Outras são predominantemente
-mecânicas, ex. coleta e organização de dados.
+A [página inicial](/) contém a essência do propósito deste
+_site_.
 
-O intuito principal deste _site_ é mostrar formas de executar tarefas mecânicas
-que:
-
-- Minimizam o esforço repetitivo;
-- Reduzem a possibilidade de erros; e
-- Economizam tempo.
-
-E como vamos fazer isso? Acompanhe os posts para descobrir. Segue uma
-explicação sobre a razão do nome "Frugal Script".
+Segue uma explicação sobre a razão do nome "Frugal Script".
 
 ## Script
 
