@@ -2,7 +2,6 @@ title: Frugal Script
 description: > # ignore newlines until next field
   Libere tempo, automatize tarefas.
 
-show_excerpts: true
 permalink: /:title/
 lang: pt-br
 
@@ -13,6 +12,9 @@ minima:
 
   # generate social links in footer
   social_links:
+    youtube_channel: UC_jCixozZE-HgUhiqwdnY-w
+    instagram: frugal_script
+    twitter: frugal_script
     github: lizardo
     rss: rss
 
