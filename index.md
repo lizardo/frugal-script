@@ -81,3 +81,7 @@ e
 [baixar o extrato da Clear em formato CSV]({% post_url 2020-07-26-passos-para-salvar-extrato-da-clear-como-csv %})
 para controle das minhas finanças. Com estas informações, instruo meu
 computador a gerar relatórios que me ajudam a tomar decisões.
+
+Veja também como os navegadores Web atuais permitem
+[inspecionar o funcionamento das páginas]({% post_url 2020-08-12-olhando-sob-o-capo-de-paginas-web %}),
+recurso muitas vezes desconhecido por quem não é desenvolvedor Web.
