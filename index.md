@@ -84,4 +84,6 @@ computador a gerar relatórios que me ajudam a tomar decisões.
 
 Veja também como os navegadores Web atuais permitem
 [inspecionar o funcionamento das páginas]({% post_url 2020-08-12-olhando-sob-o-capo-de-paginas-web %}),
-recurso muitas vezes desconhecido por quem não é desenvolvedor Web.
+recurso muitas vezes desconhecido por quem não é desenvolvedor Web. Além disso,
+(re-)descubra os [bookmarklets]({% post_url 2020-08-28-turbinando-os-favoritos-do-navegador %}),
+muito úteis para agregar suas próprias funcionalidades nas páginas Web que visita.
