@@ -23,7 +23,7 @@ Segue a rotina que uso para coleta dos dados que alimentam as planilhas acima:
 Mensalmente:
 
 1. Ir no [Tesouro Direto - Portal do Investidor](https://portalinvestidor.tesourodireto.com.br/)
-- Baixar Consulta de Operações
+- Baixar Extrato de Movimentação (Excel)
 - Baixar Extrato Consolidado (Excel)
 
 2. Ir no [CEI - Canal Eletrônico do Investidor](https://cei.b3.com.br/)
@@ -67,5 +67,5 @@ A documentação é uma parte essencial das rotinas. Não podemos confiar apenas
 memória; caso contrário, corremos o risco de gerar informações incompletas ou
 gastar tempo refazendo etapas.
 
-Essas são as partes principais da rotina de coleta de dados. Em futuros posts
-vou documentar os scripts que elaborei para processar esses dados.
+Essas são as partes principais da rotina de coleta de dados. Em outros artigos
+irei documentar os scripts que elaborei para processar esses dados.
